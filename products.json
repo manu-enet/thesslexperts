@@ -1,5 +1,5 @@
-[
-    {
+{
+    "comodo-positivessl": {
         "pid": 93,
         "gid": 7,
         "name": "Comodo PositiveSSL",
@@ -24,7 +24,7 @@
         "biennially": "14.00",
         "triennially": "20.00"
     },
-    {
+    "comodo-code-signing": {
         "pid": 85,
         "gid": 7,
         "name": "Comodo Code Signing",
@@ -49,7 +49,7 @@
         "biennially": "564.62",
         "triennially": "806.60"
     },
-    {
+    "essential-ssl-certificate-dv": {
         "pid": 126,
         "gid": 7,
         "name": "Essential SSL Certificate (DV)",
@@ -74,7 +74,7 @@
         "biennially": "25.84",
         "triennially": "36.92"
     },
-    {
+    "instantssl-pro-ov": {
         "pid": 128,
         "gid": 7,
         "name": "InstantSSL Pro (OV)",
@@ -99,7 +99,7 @@
         "biennially": "83.98",
         "triennially": "119.98"
     },
-    {
+    "comodo-ev-code-signing": {
         "pid": 86,
         "gid": 7,
         "name": "Comodo EV Code Signing",
@@ -124,7 +124,7 @@
         "biennially": "739.94",
         "triennially": "1057.06"
     },
-    {
+    "essentialssl-wildcard-dv": {
         "pid": 127,
         "gid": 7,
         "name": "EssentialSSL Wildcard (DV)",
@@ -149,7 +149,7 @@
         "biennially": "170.12",
         "triennially": "243.03"
     },
-    {
+    "comodo-ev-multi-domain": {
         "pid": 87,
         "gid": 7,
         "name": "Comodo EV Multi-Domain",
@@ -174,7 +174,7 @@
         "biennially": "514.66",
         "triennially": "735.23"
     },
-    {
+    "comodo-ev-ssl": {
         "pid": 88,
         "gid": 7,
         "name": "Comodo EV SSL",
@@ -199,7 +199,7 @@
         "biennially": "299.32",
         "triennially": "427.60"
     },
-    {
+    "hackerguardian-pci-scan-control-center": {
         "pid": 89,
         "gid": 7,
         "name": "HackerGuardian PCI Scan Control Center",
@@ -224,7 +224,7 @@
         "biennially": "175.09",
         "triennially": "250.13"
     },
-    {
+    "hackerproof-trust-mark": {
         "pid": 90,
         "gid": 7,
         "name": "HackerProof Trust Mark",
@@ -249,7 +249,7 @@
         "biennially": "175.09",
         "triennially": "250.13"
     },
-    {
+    "instantssl-ov": {
         "pid": 91,
         "gid": 7,
         "name": "InstantSSL (OV)",
@@ -274,7 +274,7 @@
         "biennially": "64.61",
         "triennially": "92.29"
     },
-    {
+    "comodo-multi-domain-ssl-ov": {
         "pid": 92,
         "gid": 7,
         "name": "Comodo Multi-Domain SSL (OV)",
@@ -299,7 +299,7 @@
         "biennially": "181.13",
         "triennially": "258.75"
     },
-    {
+    "comodo-positivessl-wildcard": {
         "pid": 94,
         "gid": 7,
         "name": "Comodo PositiveSSL Wildcard",
@@ -324,7 +324,7 @@
         "biennially": "157.19",
         "triennially": "224.57"
     },
-    {
+    "instantssl-premium-ov": {
         "pid": 95,
         "gid": 7,
         "name": "InstantSSL Premium (OV)",
@@ -349,7 +349,7 @@
         "biennially": "107.67",
         "triennially": "153.81"
     },
-    {
+    "instantssl-premium-wildcard-ov": {
         "pid": 96,
         "gid": 7,
         "name": "InstantSSL Premium Wildcard (OV)",
@@ -374,7 +374,7 @@
         "biennially": "301.47",
         "triennially": "430.68"
     },
-    {
+    "comodo-ssl-certificate-dv": {
         "pid": 97,
         "gid": 7,
         "name": "Comodo SSL Certificate (DV)",
@@ -399,7 +399,7 @@
         "biennially": "83.98",
         "triennially": "119.98"
     },
-    {
+    "comodo-wildcard-ssl-certificate-dv": {
         "pid": 98,
         "gid": 7,
         "name": "Comodo Wildcard SSL Certificate (DV)",
@@ -424,7 +424,7 @@
         "biennially": "320.85",
         "triennially": "458.37"
     },
-    {
+    "comodo-unified-communications-certificate": {
         "pid": 99,
         "gid": 7,
         "name": "Comodo Unified Communications Certificate",
@@ -449,7 +449,7 @@
         "biennially": "258.41",
         "triennially": "369.15"
     },
-    {
+    "elite-ssl-ov": {
         "pid": 100,
         "gid": 7,
         "name": "Elite SSL (OV)",
@@ -474,7 +474,7 @@
         "biennially": "112.70",
         "triennially": "161.00"
     },
-    {
+    "comodo-domain-validated-ucc-ssl": {
         "pid": 101,
         "gid": 7,
         "name": "Comodo Domain Validated UCC SSL",
@@ -499,7 +499,7 @@
         "biennially": "191.65",
         "triennially": "273.79"
     },
-    {
+    "comodo-positivessl-multi-domain": {
         "pid": 102,
         "gid": 7,
         "name": "Comodo PositiveSSL Multi-Domain",
@@ -524,7 +524,7 @@
         "biennially": "38.77",
         "triennially": "55.37"
     },
-    {
+    "comodo-positivessl-multi-domain-wildcard": {
         "pid": 103,
         "gid": 7,
         "name": "Comodo PositiveSSL Multi-Domain Wildcard",
@@ -549,7 +549,7 @@
         "biennially": "355.30",
         "triennially": "507.59"
     },
-    {
+    "enterprise-ssl": {
         "pid": 104,
         "gid": 7,
         "name": "Enterprise SSL",
@@ -574,7 +574,7 @@
         "biennially": "523.25",
         "triennially": "747.50"
     },
-    {
+    "enterprise-ssl-pro": {
         "pid": 105,
         "gid": 7,
         "name": "Enterprise SSL Pro",
@@ -599,7 +599,7 @@
         "biennially": "1308.13",
         "triennially": "1868.75"
     },
-    {
+    "enterprise-ssl-pro-wildcard": {
         "pid": 106,
         "gid": 7,
         "name": "Enterprise SSL Pro Wildcard",
@@ -624,7 +624,7 @@
         "biennially": "2211.74",
         "triennially": "3159.63"
     },
-    {
+    "enterprise-ssl-pro-with-ev": {
         "pid": 107,
         "gid": 7,
         "name": "Enterprise SSL Pro with EV",
@@ -649,7 +649,7 @@
         "biennially": "1962.19",
         "triennially": "2803.13"
     },
-    {
+    "enterprise-ssl-pro-with-ev-multi-domain": {
         "pid": 108,
         "gid": 7,
         "name": "Enterprise SSL Pro with EV Multi-Domain",
@@ -674,7 +674,7 @@
         "biennially": "5431.74",
         "triennially": "7759.63"
     },
-    {
+    "comodo-ov-unified-communications-wildcard": {
         "pid": 109,
         "gid": 7,
         "name": "Comodo OV Unified Communications Wildcard",
@@ -699,7 +699,7 @@
         "biennially": "527.57",
         "triennially": "753.69"
     },
-    {
+    "comodo-multi-domain-wildcard-ov": {
         "pid": 110,
         "gid": 7,
         "name": "Comodo Multi-Domain Wildcard (OV)",
@@ -724,7 +724,7 @@
         "biennially": "527.57",
         "triennially": "753.69"
     },
-    {
+    "pci-scanning-enterprise-edition": {
         "pid": 111,
         "gid": 7,
         "name": "PCI Scanning Enterprise Edition",
@@ -749,7 +749,7 @@
         "biennially": "493.06",
         "triennially": "704.38"
     },
-    {
+    "comodo-personal-authentication-basic-certificate": {
         "pid": 112,
         "gid": 7,
         "name": "Comodo Personal Authentication Basic Certificate",
@@ -774,7 +774,7 @@
         "biennially": "19.27",
         "triennially": null
     },
-    {
+    "comodo-personal-authentication-pro-certificate": {
         "pid": 113,
         "gid": 7,
         "name": "Comodo Personal Authentication Pro Certificate",
@@ -799,7 +799,7 @@
         "biennially": "51.68",
         "triennially": null
     },
-    {
+    "comodo-personal-authentication-enterprise-certificate": {
         "pid": 114,
         "gid": 7,
         "name": "Comodo Personal Authentication Enterprise Certificate",
@@ -824,7 +824,7 @@
         "biennially": "64.61",
         "triennially": null
     },
-    {
+    "positivessl-ev": {
         "pid": 115,
         "gid": 7,
         "name": "PositiveSSL EV",
@@ -849,7 +849,7 @@
         "biennially": "172.27",
         "triennially": "246.10"
     },
-    {
+    "positive-ssl-ev-multi-domain": {
         "pid": 116,
         "gid": 7,
         "name": "Positive SSL EV Multi-Domain",
@@ -874,7 +874,7 @@
         "biennially": "348.85",
         "triennially": "498.35"
     },
-    {
+    "sectigo-code-signing-certificate": {
         "pid": 73,
         "gid": 6,
         "name": "Sectigo Code Signing Certificate",
@@ -899,7 +899,7 @@
         "biennially": "564.62",
         "triennially": "806.60"
     },
-    {
+    "sectigo-ev-code-signing-certificate": {
         "pid": 74,
         "gid": 6,
         "name": "Sectigo EV Code Signing Certificate",
@@ -924,7 +924,7 @@
         "biennially": "739.94",
         "triennially": "1057.06"
     },
-    {
+    "sectigo-ev-multi-domainucc": {
         "pid": 75,
         "gid": 6,
         "name": "Sectigo EV Multi-Domain/UCC",
@@ -949,7 +949,7 @@
         "biennially": "596.48",
         "triennially": "852.13"
     },
-    {
+    "sectigo-ev-ssl": {
         "pid": 76,
         "gid": 6,
         "name": "Sectigo EV SSL",
@@ -974,7 +974,7 @@
         "biennially": "299.32",
         "triennially": "427.60"
     },
-    {
+    "sectigo-ov-ssl": {
         "pid": 77,
         "gid": 6,
         "name": "Sectigo OV SSL",
@@ -999,7 +999,7 @@
         "biennially": "120.59",
         "triennially": "172.27"
     },
-    {
+    "sectigo-ov-ssl-multi-domainucc": {
         "pid": 78,
         "gid": 6,
         "name": "Sectigo OV SSL Multi-Domain/UCC",
@@ -1024,7 +1024,7 @@
         "biennially": "176.58",
         "triennially": "252.25"
     },
-    {
+    "sectigo-ov-wildcard-ssl": {
         "pid": 79,
         "gid": 6,
         "name": "Sectigo OV Wildcard SSL",
@@ -1049,7 +1049,7 @@
         "biennially": "923.80",
         "triennially": "1319.72"
     },
-    {
+    "sectigo-ssl": {
         "pid": 80,
         "gid": 6,
         "name": "Sectigo SSL",
@@ -1074,7 +1074,7 @@
         "biennially": "83.98",
         "triennially": "119.98"
     },
-    {
+    "sectigo-ssl-wildcard": {
         "pid": 81,
         "gid": 6,
         "name": "Sectigo SSL Wildcard",
@@ -1099,7 +1099,7 @@
         "biennially": "320.85",
         "triennially": "458.37"
     },
-    {
+    "sectigo-ssl-multi-domainucc": {
         "pid": 82,
         "gid": 6,
         "name": "Sectigo SSL Multi-Domain/UCC",
@@ -1124,7 +1124,7 @@
         "biennially": "191.65",
         "triennially": "273.79"
     },
-    {
+    "sectigo-multi-domainucc-wildcard-dv": {
         "pid": 83,
         "gid": 6,
         "name": "Sectigo Multi-Domain/UCC Wildcard (DV)",
@@ -1149,7 +1149,7 @@
         "biennially": "527.57",
         "triennially": "753.69"
     },
-    {
+    "sectigo-ov-ssl-multi-domain-wildcard": {
         "pid": 84,
         "gid": 6,
         "name": "Sectigo OV SSL Multi-Domain Wildcard",
@@ -1174,7 +1174,7 @@
         "biennially": "527.57",
         "triennially": "753.69"
     },
-    {
+    "rapidssl-certificate": {
         "pid": 66,
         "gid": 4,
         "name": "RapidSSL Certificate",
@@ -1199,7 +1199,7 @@
         "biennially": "21.05",
         "triennially": "31.00"
     },
-    {
+    "rapidssl-wildcard-certificate": {
         "pid": 67,
         "gid": 4,
         "name": "RapidSSL Wildcard Certificate",
@@ -1224,7 +1224,7 @@
         "biennially": "231.46",
         "triennially": "341.09"
     },
-    {
+    "geotrust-quickssl-premium": {
         "pid": 45,
         "gid": 2,
         "name": "GeoTrust QuickSSL Premium",
@@ -1249,7 +1249,7 @@
         "biennially": "112.22",
         "triennially": "165.38"
     },
-    {
+    "geotrust-quickssl-premium-san": {
         "pid": 46,
         "gid": 2,
         "name": "GeoTrust QuickSSL Premium SAN",
@@ -1274,7 +1274,7 @@
         "biennially": "284.05",
         "triennially": "418.60"
     },
-    {
+    "geotrust-quickssl-premium-wildcard": {
         "pid": 47,
         "gid": 2,
         "name": "GeoTrust QuickSSL Premium Wildcard",
@@ -1299,7 +1299,7 @@
         "biennially": "432.53",
         "triennially": "637.40"
     },
-    {
+    "geotrust-true-businessid": {
         "pid": 48,
         "gid": 2,
         "name": "GeoTrust True BusinessID",
@@ -1324,7 +1324,7 @@
         "biennially": "179.02",
         "triennially": "263.81"
     },
-    {
+    "geotrust-true-businessid-wildcard": {
         "pid": 49,
         "gid": 2,
         "name": "GeoTrust True BusinessID Wildcard",
@@ -1349,7 +1349,7 @@
         "biennially": "805.07",
         "triennially": "1186.42"
     },
-    {
+    "geotrust-true-businessid-multi-domain": {
         "pid": 50,
         "gid": 2,
         "name": "GeoTrust True BusinessID Multi-Domain",
@@ -1374,7 +1374,7 @@
         "biennially": "431.79",
         "triennially": "636.33"
     },
-    {
+    "geotrust-true-businessid-with-ev": {
         "pid": 51,
         "gid": 2,
         "name": "GeoTrust True BusinessID with EV",
@@ -1399,7 +1399,7 @@
         "biennially": "405.75",
         "triennially": "597.95"
     },
-    {
+    "geotrust-true-businessid-w-ev-multi-domain": {
         "pid": 52,
         "gid": 2,
         "name": "GeoTrust True BusinessID w/ EV Multi-Domain",
@@ -1424,7 +1424,7 @@
         "biennially": "839.86",
         "triennially": "1237.69"
     },
-    {
+    "geotrust-true-businessid-with-multi-domain-wildcard": {
         "pid": 53,
         "gid": 2,
         "name": "GeoTrust True BusinessID with Multi-Domain Wildcard",
@@ -1449,7 +1449,7 @@
         "biennially": "1175.17",
         "triennially": "1731.83"
     },
-    {
+    "geotrust-dv-ssl-certificate-flex": {
         "pid": 54,
         "gid": 2,
         "name": "GeoTrust DV SSL Certificate (FLEX)",
@@ -1474,7 +1474,7 @@
         "biennially": null,
         "triennially": null
     },
-    {
+    "geotrust-true-businessid-flex": {
         "pid": 55,
         "gid": 2,
         "name": "GeoTrust True BusinessID (FLEX)",
@@ -1499,7 +1499,7 @@
         "biennially": null,
         "triennially": null
     },
-    {
+    "geotrust-true-businessid-with-ev-flex": {
         "pid": 56,
         "gid": 2,
         "name": "GeoTrust True BusinessID with EV (FLEX)",
@@ -1524,7 +1524,7 @@
         "biennially": "405.75",
         "triennially": "597.95"
     },
-    {
+    "digicert-secure-site-pro-ev-flex": {
         "pid": 26,
         "gid": 1,
         "name": "DigiCert Secure Site Pro EV (FLEX)",
@@ -1549,7 +1549,7 @@
         "biennially": "2828.05",
         "triennially": "4093.23"
     },
-    {
+    "digicert-standard-ssl": {
         "pid": 27,
         "gid": 1,
         "name": "DigiCert Standard SSL",
@@ -1574,7 +1574,7 @@
         "biennially": "472.62",
         "triennially": "696.49"
     },
-    {
+    "symantec-secure-site-pro-wildcard": {
         "pid": 138,
         "gid": 1,
         "name": "Symantec Secure Site Pro Wildcard",
@@ -1599,7 +1599,7 @@
         "biennially": null,
         "triennially": null
     },
-    {
+    "digicert-extended-validation-ssl": {
         "pid": 28,
         "gid": 1,
         "name": "DigiCert Extended Validation SSL",
@@ -1624,7 +1624,7 @@
         "biennially": "703.57",
         "triennially": "1036.84"
     },
-    {
+    "symantecr-secure-site-pro-multi-domain-wildcard": {
         "pid": 139,
         "gid": 1,
         "name": "Symantec® Secure Site Pro Multi-Domain Wildcard\t",
@@ -1649,7 +1649,7 @@
         "biennially": null,
         "triennially": null
     },
-    {
+    "digicert-multi-domain-ssl": {
         "pid": 29,
         "gid": 1,
         "name": "DigiCert Multi-Domain SSL",
@@ -1674,7 +1674,7 @@
         "biennially": "1371.51",
         "triennially": "2021.17"
     },
-    {
+    "digicert-ev-multi-domain-ssl": {
         "pid": 30,
         "gid": 1,
         "name": "DigiCert EV Multi-Domain SSL",
@@ -1699,7 +1699,7 @@
         "biennially": "1360.02",
         "triennially": "2004.24"
     },
-    {
+    "digicert-wildcard-ssl": {
         "pid": 31,
         "gid": 1,
         "name": "DigiCert Wildcard SSL",
@@ -1724,7 +1724,7 @@
         "biennially": "1498.91",
         "triennially": "2208.92"
     },
-    {
+    "digicert-secure-site-ssl": {
         "pid": 32,
         "gid": 1,
         "name": "DigiCert Secure Site SSL",
@@ -1749,7 +1749,7 @@
         "biennially": "792.28",
         "triennially": "1146.72"
     },
-    {
+    "digicert-code-signing-certificate": {
         "pid": 33,
         "gid": 1,
         "name": "DigiCert Code Signing Certificate",
@@ -1774,7 +1774,7 @@
         "biennially": "839.98",
         "triennially": "1237.86"
     },
-    {
+    "digicert-secure-site-multi-domain-ssl": {
         "pid": 34,
         "gid": 1,
         "name": "Digicert Secure Site Multi-Domain SSL",
@@ -1799,7 +1799,7 @@
         "biennially": "2504.22",
         "triennially": "3624.54"
     },
-    {
+    "digicert-ev-code-signing-certificate": {
         "pid": 35,
         "gid": 1,
         "name": "DigiCert EV Code Signing Certificate",
@@ -1824,7 +1824,7 @@
         "biennially": "1176.65",
         "triennially": "1734.00"
     },
-    {
+    "digicert-secure-site-wildcard-ssl": {
         "pid": 36,
         "gid": 1,
         "name": "DigiCert Secure Site Wildcard SSL",
@@ -1849,7 +1849,7 @@
         "biennially": "3777.87",
         "triennially": "5467.96"
     },
-    {
+    "digicert-secure-site-ev-ssl": {
         "pid": 37,
         "gid": 1,
         "name": "DigiCert Secure Site EV SSL",
@@ -1874,7 +1874,7 @@
         "biennially": "1830.81",
         "triennially": "2649.86"
     },
-    {
+    "digicert-secure-site-ev-multi-domain-ssl": {
         "pid": 38,
         "gid": 1,
         "name": "DigiCert Secure Site EV Multi-Domain SSL",
@@ -1899,7 +1899,7 @@
         "biennially": "5227.81",
         "triennially": "7566.56"
     },
-    {
+    "digicert-secure-site-pro-ssl": {
         "pid": 39,
         "gid": 1,
         "name": "DigiCert Secure Site Pro SSL",
@@ -1924,7 +1924,7 @@
         "biennially": "1974.58",
         "triennially": "2857.96"
     },
-    {
+    "digicert-secure-site-pro-ev-ssl": {
         "pid": 40,
         "gid": 1,
         "name": "DigiCert Secure Site Pro EV SSL",
@@ -1949,7 +1949,7 @@
         "biennially": "2828.05",
         "triennially": "4093.23"
     },
-    {
+    "digicert-basic-ov-flex": {
         "pid": 41,
         "gid": 1,
         "name": "DigiCert Basic OV (FLEX)",
@@ -1974,7 +1974,7 @@
         "biennially": null,
         "triennially": null
     },
-    {
+    "digicert-basic-ev-flex": {
         "pid": 42,
         "gid": 1,
         "name": "DigiCert Basic EV (FLEX)",
@@ -1999,7 +1999,7 @@
         "biennially": "703.57",
         "triennially": "1036.84"
     },
-    {
+    "digicert-secure-site-ov-flex": {
         "pid": 43,
         "gid": 1,
         "name": "DigiCert Secure Site OV (FLEX)",
@@ -2024,7 +2024,7 @@
         "biennially": null,
         "triennially": null
     },
-    {
+    "digicert-secure-site-ev-flex": {
         "pid": 44,
         "gid": 1,
         "name": "DigiCert Secure Site EV (FLEX)",
@@ -2049,7 +2049,7 @@
         "biennially": "1830.81",
         "triennially": "2649.86"
     },
-    {
+    "thawte-ssl123": {
         "pid": 57,
         "gid": 3,
         "name": "Thawte SSL123",
@@ -2074,7 +2074,7 @@
         "biennially": "70.14",
         "triennially": "103.36"
     },
-    {
+    "thawte-ssl123-wildcard": {
         "pid": 58,
         "gid": 3,
         "name": "Thawte SSL123 Wildcard",
@@ -2099,7 +2099,7 @@
         "biennially": "465.26",
         "triennially": "685.63"
     },
-    {
+    "thawte-ssl-web-server": {
         "pid": 59,
         "gid": 3,
         "name": "Thawte SSL Web Server",
@@ -2124,7 +2124,7 @@
         "biennially": "171.12",
         "triennially": "252.17"
     },
-    {
+    "thawte-wildcard-ssl": {
         "pid": 60,
         "gid": 3,
         "name": "Thawte Wildcard SSL",
@@ -2149,7 +2149,7 @@
         "biennially": "676.76",
         "triennially": "997.34"
     },
-    {
+    "thawte-ssl-web-server-multi-domain-wildcard": {
         "pid": 61,
         "gid": 3,
         "name": "Thawte SSL Web Server Multi-Domain Wildcard",
@@ -2174,7 +2174,7 @@
         "biennially": "1101.32",
         "triennially": "1623.00"
     },
-    {
+    "thawte-ssl-web-server-with-ev": {
         "pid": 62,
         "gid": 3,
         "name": "Thawte SSL Web Server with EV",
@@ -2199,7 +2199,7 @@
         "biennially": "365.16",
         "triennially": "538.14"
     },
-    {
+    "thawte-ssl123-flex": {
         "pid": 63,
         "gid": 3,
         "name": "Thawte SSL123 (FLEX)",
@@ -2224,7 +2224,7 @@
         "biennially": null,
         "triennially": null
     },
-    {
+    "thawte-ssl-web-server-flex": {
         "pid": 64,
         "gid": 3,
         "name": "Thawte SSL Web Server (Flex)",
@@ -2249,7 +2249,7 @@
         "biennially": null,
         "triennially": null
     },
-    {
+    "thawte-ssl-web-server-with-ev-flex": {
         "pid": 65,
         "gid": 3,
         "name": "Thawte SSL Web Server with EV (FLEX)",
@@ -2274,7 +2274,7 @@
         "biennially": "365.16",
         "triennially": "538.14"
     },
-    {
+    "codeguard-basic": {
         "pid": 68,
         "gid": 5,
         "name": "CodeGuard Basic",
@@ -2299,7 +2299,7 @@
         "biennially": null,
         "triennially": null
     },
-    {
+    "codeguard-professional": {
         "pid": 69,
         "gid": 5,
         "name": "CodeGuard Professional",
@@ -2324,7 +2324,7 @@
         "biennially": null,
         "triennially": null
     },
-    {
+    "codeguard-premium": {
         "pid": 70,
         "gid": 5,
         "name": "CodeGuard Premium",
@@ -2349,7 +2349,7 @@
         "biennially": null,
         "triennially": null
     },
-    {
+    "codeguard-team": {
         "pid": 71,
         "gid": 5,
         "name": "CodeGuard Team",
@@ -2374,7 +2374,7 @@
         "biennially": null,
         "triennially": null
     },
-    {
+    "codeguard-business": {
         "pid": 72,
         "gid": 5,
         "name": "CodeGuard Business",
@@ -2399,7 +2399,7 @@
         "biennially": null,
         "triennially": null
     },
-    {
+    "sitelock-monitor": {
         "pid": 117,
         "gid": 8,
         "name": "SiteLock Monitor",
@@ -2424,7 +2424,7 @@
         "biennially": null,
         "triennially": null
     },
-    {
+    "sitelock-basic": {
         "pid": 118,
         "gid": 8,
         "name": "SiteLock Basic",
@@ -2449,7 +2449,7 @@
         "biennially": null,
         "triennially": null
     },
-    {
+    "sitelock-pro": {
         "pid": 119,
         "gid": 8,
         "name": "SiteLock Pro",
@@ -2474,7 +2474,7 @@
         "biennially": null,
         "triennially": null
     },
-    {
+    "sitelock-business": {
         "pid": 120,
         "gid": 8,
         "name": "SiteLock Business",
@@ -2499,7 +2499,7 @@
         "biennially": null,
         "triennially": null
     },
-    {
+    "cwatch-web-basic": {
         "pid": 121,
         "gid": 9,
         "name": "cWatch Web Basic",
@@ -2524,7 +2524,7 @@
         "biennially": null,
         "triennially": null
     },
-    {
+    "cwatch-web-premium": {
         "pid": 122,
         "gid": 9,
         "name": "cWatch Web Premium",
@@ -2549,7 +2549,7 @@
         "biennially": "574.99",
         "triennially": "827.99"
     },
-    {
+    "cwatch-web-pro": {
         "pid": 123,
         "gid": 9,
         "name": "cWatch Web Pro",
@@ -2574,7 +2574,7 @@
         "biennially": "362.24",
         "triennially": "512.89"
     },
-    {
+    "cwatch-web-starter": {
         "pid": 124,
         "gid": 9,
         "name": "cWatch Web Starter",
@@ -2599,7 +2599,7 @@
         "biennially": "143.74",
         "triennially": "205.84"
     },
-    {
+    "free-cwatch-web-pro": {
         "pid": 125,
         "gid": 9,
         "name": "Free cWatch Web Pro",
@@ -2624,7 +2624,7 @@
         "biennially": null,
         "triennially": null
     },
-    {
+    "digicert-document-signing-organization-2000-certificate": {
         "pid": 129,
         "gid": 10,
         "name": "DigiCert Document Signing Organization (2000) Certificate",
@@ -2649,7 +2649,7 @@
         "biennially": "974.65",
         "triennially": "1436.32"
     },
-    {
+    "digicert-smime-certificate": {
         "pid": 133,
         "gid": 10,
         "name": "DigiCert S/MIME Certificate",
@@ -2674,7 +2674,7 @@
         "biennially": "67.33",
         "triennially": null
     },
-    {
+    "digicert-document-signing-organization-5000-certificate": {
         "pid": 130,
         "gid": 10,
         "name": "DigiCert Document Signing Organization (5000) Certificate",
@@ -2699,7 +2699,7 @@
         "biennially": "1506.58",
         "triennially": "2220.21"
     },
-    {
+    "encryption-everywhere-dv": {
         "pid": 134,
         "gid": 10,
         "name": "Encryption Everywhere DV",
@@ -2724,7 +2724,7 @@
         "biennially": null,
         "triennially": null
     },
-    {
+    "digicert-document-signing-individual-500-certificate": {
         "pid": 131,
         "gid": 10,
         "name": "DigiCert Document Signing Individual (500) Certificate",
@@ -2749,7 +2749,7 @@
         "biennially": "637.99",
         "triennially": "940.18"
     },
-    {
+    "digicert-smime-class-1-certificate-dv": {
         "pid": 135,
         "gid": 10,
         "name": "DigiCert S/MIME Class 1 Certificate (DV)",
@@ -2774,7 +2774,7 @@
         "biennially": "18.52",
         "triennially": null
     },
-    {
+    "digicert-document-signing-individual-2000-certificate": {
         "pid": 132,
         "gid": 10,
         "name": "DigiCert Document Signing Individual (2000) Certificate",
@@ -2799,7 +2799,7 @@
         "biennially": "974.65",
         "triennially": "1436.32"
     },
-    {
+    "encryption-everywhere-dv-with-site-seal": {
         "pid": 136,
         "gid": 10,
         "name": "Encryption Everywhere DV With Site Seal",
@@ -2824,7 +2824,7 @@
         "biennially": null,
         "triennially": null
     },
-    {
+    "secure-site-pro-ssl-flex": {
         "pid": 137,
         "gid": 10,
         "name": "Secure Site Pro SSL (FLEX)",
@@ -2849,4 +2849,4 @@
         "biennially": null,
         "triennially": null
     }
-]
+}
